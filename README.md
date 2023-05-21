@@ -1,5 +1,4 @@
 # geradordegraficosPHP
-    Meu portfolio
 Tecnologias utilizadas
 - HTML
 - JS
